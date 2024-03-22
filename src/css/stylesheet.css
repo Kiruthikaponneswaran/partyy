@@ -1277,11 +1277,11 @@ body {
 
 .wrap {
   padding: 1.5em 2.5em;
-  height: 100%;
+  height: 80%;
 }
 
 #card-front, #card-inside {
-  width: 100%;
+  width: 80%;
   -webkit-box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.25), 0 0 1px rgba(0, 0, 0, 0.5);
           box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.25), 0 0 1px rgba(0, 0, 0, 0.5);
   position: absolute;
